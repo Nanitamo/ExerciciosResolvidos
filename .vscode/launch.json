@@ -11,7 +11,7 @@
       "stopAtEntry": false,
       "cwd": "c:/Users/Asus Gaming/Documents/ExerciciosResolvidos",
       "environment": [],
-      "program": "c:/Users/Asus Gaming/Documents/ExerciciosResolvidos/build/Debug/outDebug",
+      "program": "c:/Users/Asus Gaming/Documents/ExerciciosResolvidos/build/Release/outRelease",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/Program Files (x86)/Falcon/MinGW/bin/gdb.exe",
